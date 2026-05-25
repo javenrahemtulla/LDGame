@@ -4,7 +4,6 @@
   "main": "index.ts",
   "dependencies": {
     "@react-native-community/slider": "^5.2.0",
-    "@shopify/react-native-skia": "^2.6.3",
     "expo": "~56.0.4",
     "expo-av": "^16.0.8",
     "expo-document-picker": "^56.0.4",
@@ -14,6 +13,7 @@
     "react-native": "0.85.3",
     "react-native-gesture-handler": "^2.31.2",
     "react-native-reanimated": "^4.3.1",
+    "react-native-svg": "^15.15.5",
     "zustand": "^5.0.13"
   },
   "devDependencies": {
